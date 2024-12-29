@@ -1,11 +1,10 @@
 # pair-matching-game
-# Matching Pairs Game
 
-Welcome to the Matching Pairs Game! This is a simple and fun memory game where you must match card pairs. Enjoy the game!
+Welcome to the Pair Matching Game! This is a simple and fun memory game where you must match card pairs. Enjoy the game!
 
 ## Game Description
 
-The Matching Pairs Game challenges your memory and concentration. The objective is to match all the pairs of cards with the least number of attempts.
+The Pair Matching Game challenges your memory and concentration. The objective is to match all the pairs of cards with the least number of attempts.
 
 ## How to Play
 
@@ -39,4 +38,4 @@ To play the game locally:
 
 1. Download or clone the repository.
    ```bash
-   git clone https://github.com/userXbeta/pair-matching-game.git
+   git clone https://github.com/mdrhl1doto/pair-matching-game.git
